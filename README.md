@@ -1,4 +1,4 @@
-Deployment Steps and Automation Levels
+ Sparta App Two Tier Deployment: Steps and Automation 
 --------------------------------------
 
 ### Manual Setup
